@@ -1,0 +1,821 @@
+PDF hat 104 Seiten total
+
+
+======================================================================
+=== SEITE 55 (Index 54) ===
+======================================================================
+
+[y=68] Anhang C (informativ)
+Kennwerte
+
+[y=127] C.1 
+Allgemeines
+
+[y=147] Je nach Grösse eines Projekts (d. h. Anzahl EWS) können unterschiedlich aufwendige Verfahren 
+zur Bestimmung der thermophysikalischen Parameter eingesetzt werden. Für die Dimensio-
+nierung der EWS werden die am Standort der EWS gemessenen oder geschätzten thermischen 
+Gesteinseigenschaften (C.3) bestimmt.
+
+[y=213] C.2 
+Bodentemperatur und Bodenoberflächentemperatur
+
+[y=238] C.2.1 
+Allgemeines
+
+[y=261] C.2.1.1 
+Die Bodentemperatur ist eine Funktion der Bodenoberflächentemperatur, des Temperatur-
+gradienten, der Wärmeleitfähigkeit des Bodens, des Wärmeflusses und weiterer, lokaler Einflüsse 
+wie Grundwasserströmungen. Die Bodenoberflächentemperatur wird durch mehrere Faktoren 
+beeinflusst:
+ 
+– Höhe,
+ 
+– Lage (z. B. Nord/Süd-Exposition; Stadt/Land),
+ 
+– Beschattung,
+ 
+– Grundwasserfluss,
+ 
+– lokaler geothermischer Wärmefluss.
+
+[y=376] C.2.1.2 
+Die Bodenoberflächentemperatur am Standort kann in erster Annäherung aufgrund der Höhe 
+über Meer bestimmt werden. Etwas genauer kann sie aus der mittleren Jahrestemperatur, die 
+ lokale Verhältnisse mitberücksichtigt, berechnet werden. Genaue Daten können durch die 
+ Messung  eines Temperaturprofils entlang einer EWS erhalten werden.
+
+[y=433] C.2.1.3 
+Gebräuchliche Messverfahren:
+ 
+–  Umlaufmessung: Messung der mittleren Erdreichtemperatur durch Anschluss einer Umwälz-
+pumpe und Messung der Vorlauftemperatur ohne Wärmeeintrag. Auswertung nach minimal 
+vier Umläufen.
+ 
+–  Kabelmessung: Messung des Temperaturverlaufs in der eingebauten und wassergefüllten 
+ Erdwärmesonde mithilfe einer kabelgeführten Temperatursonde.
+ 
+–  Diver-Verfahren: Messung des Temperaturverlaufs in der eingebauten und wassergefüllten 
+Erdwärmesonde mithilfe einer kabellosen Druck- und Temperatursonde, die selbständig ab-
+sinkt und dabei die Messwerte aufzeichnet. 
+ 
+–  Faseroptische Messung: Messung des Temperaturverlaufs in der eingebauten Erdwärme-
+sonde mithilfe eines faseroptischen Lichtwellenleiters. Er wird entweder eingeführt oder vor 
+dem Einbau an der Erdwärmesonde befestigt.
+
+[y=581] C.2.1.4 
+Die Reaktionsgeschwindigkeit der Messung muss so sein, dass Wärmeträger und Sensor beim 
+Absinken des Divers oder Kabelfühlers im quasi thermischen Gleichgewicht sind.
+
+[y=620] C.2.2 
+Bestimmung der Bodenoberflächentemperatur am Standort aus der Höhe über Meer
+
+[y=643] C.2.2.1 
+Da ein Zusammenhang zwischen Höhenlage und Bodenoberflächentemperatur besteht, kann die 
+Bodenoberflächentemperatur in erster Näherung direkt aus der Standorthöhe bestimmt werden. 
+Lokale Verhältnisse sind dabei nicht berücksichtigt, entsprechend gross sind die Toleranzwerte 
+zu bemessen. Ohne weitere Abklärungen ist im Heizfall zum Resultat aus den Gleichungen 4  
+und 5 ein Toleranzabzug von 1,5 K vorzunehmen, im Kühlfall ein Toleranzzuschlag von 1,5 K zu 
+addieren.
+
+
+======================================================================
+=== SEITE 56 (Index 55) ===
+======================================================================
+
+[y=69] C.2.2.2 
+Figur 8 stellt die Bodenoberflächentemperatur für verschiedene Meereshöhen der Alpennord-
+seite und der Alpensüdseite dar (berechnet anhand der Gleichungen 4 und 5). Diese Gleichungen 
+ gelten für einen Höhenbereich von 200 m bis 1800 m ü. M.
+
+[y=114] Alpennordseite:
+ 
+Bodenoberflächentemperatur (ausgezogene Kurve in Figur 8):
+
+[y=142] θG,s = 1,373 · 10–6 · hS
+2 – 6,88 · 10–3 · hS + 14,2 
+(4)
+
+[y=165] Alpensüdseite:
+ 
+Bodenoberflächentemperatur (gestrichelte Kurve in Figur 8):
+
+[y=194] θG,s = 2,277 · 10–6 · hS
+2 – 8,38 · 10–3 · hS + 15,4  
+(5)
+
+[y=217] Bodenoberflächentemperatur, mit Toleranzwert für den Heizfall:
+
+[y=234] θG,s,H = θG,s – 1,5 K 
+(6)
+
+[y=257] Bodenoberflächentemperatur, mit Toleranzwert für den Kühlfall:
+
+[y=274] θG,s,C = θG,s + 1,5 K 
+(7)
+
+[y=297] Figur 8  Bodenoberflächentemperaturen, abgeschätzt mit den Gleichungen 4 und 5, wenn  
+die Jahresmitteltemperatur am Standort nicht bekannt ist, für einen Höhenbereich 
+von 200 m bis 1800 m ü. M.
+
+[y=340] 14,0
+
+[y=341] Bodenoberflächentemperatur in °C
+
+[y=350] Alpensüdseite
+
+[y=356] 13,0
+
+[y=362] Alpennordseite
+
+[y=372] 12,0
+
+[y=388] 11,0
+
+[y=405] 10,0
+
+[y=421] 9,0
+
+[y=437] 8,0
+
+[y=453] 7,0
+
+[y=470] 6,0
+
+[y=486] 5,0
+
+[y=498] 1200
+1100
+1600
+1500
+1800
+1700
+
+[y=498] 200
+400
+300
+500
+600
+700
+800
+900
+1000
+1400
+1300
+
+[y=512] Höhe über Meer in m
+
+[y=549] C.2.3 
+Bestimmung der Bodenoberflächentemperatur bei bekannter Jahresmitteltemperatur
+
+[y=572] C.2.3.1 
+Ist die Jahresmitteltemperatur am Standort bekannt (z. B. berechnet mit der Software Meteo- 
+norm [21]), kann die Bodenoberflächentemperatur aus der Standorthöhe nach folgenden 
+ Gleichungen berechnet werden [11].
+
+[y=612] Bodenoberflächentemperatur für Standorthöhe < 1000 m ü. M.
+
+[y=628] θG,s = θe,avg + 1,55 
+(8)
+
+[y=652] Bodenoberflächentemperatur für Standorthöhe > 1000 m ü. M.
+
+[y=667] hS – 1000
+
+[y=674] θG,s = θe,avg + 1,55 +
+
+[y=674] 800
+ · 2,45 
+(9)
+
+[y=697] θG,s 
+Bodenoberflächentemperatur, in °C
+ 
+θe,avg mittlere Jahresaussenlufttemperatur, in °C
+ 
+hS 
+Höhe Standort über Meer, m ü. M.
+
+
+======================================================================
+=== SEITE 57 (Index 56) ===
+======================================================================
+
+[y=69] C.2.3.2 
+Wegen lokaler Unsicherheiten (z. B. Einfluss der Exposition) wird für die Dimensionierung  
+ein Toleranzwert von 1 K für Heizzwecke (Gleichung 10) subtrahiert und für Kühlzwecke  
+(Gleichung 11) addiert.
+
+[y=109] Bodenoberflächentemperatur, mit Toleranzwert für den Heizfall:
+
+[y=125] θG,s,H = θG,s – 1 
+(10)
+
+[y=149] Bodenoberflächentemperatur, mit Toleranzwert für den Kühlfall:
+
+[y=165] θG,s,C = θG,s + 1 
+(11)
+
+[y=197] C.3 
+Boden- und Stoffkennwerte
+
+[y=223] Tabelle 11  Bodenkennwerte. Der Wertebereich basiert auf Literaturdaten. Ohne weitere Kenntnisse sind 
+die für die Schweiz empfohlenen Rechenwerte zu verwenden. In begründeten Fällen kann 
+ davon abgewichen werden. Werte teilweise aus Wärmeleitfähigkeiten im Schweizerischen 
+Molassegestein [16]
+
+[y=276] Gesteinstyp
+Wärmeleitfähigkeit  
+ 
+λ 
+W/(m·K)
+
+[y=276] Dichte 
+ 
+ρ 
+103 kg/m3
+
+[y=276] Volumetrische  
+Wärmekapazität  
+ρ · c 
+MJ/(m3·K)
+
+[y=325] Werte-  
+bereich
+empfohlener  
+Rechenwert
+Werte- 
+bereich
+empfohlener 
+Rechenwert
+
+[y=352] Ton trocken
+0,4–1,0
+0,6
+1,5–1,6
+1,5
+1,8–2,0
+
+[y=367] Ton wassergesättigt
+0,9–2,3
+1,4
+2,0–2,8
+2,3
+2,0–2,2
+
+[y=382] Sand trocken
+0,3–0,8
+0,5
+1,3–1,6
+1,4
+1,8–2,2
+
+[y=397] Sand wassergesättigt
+1,5–4,0
+2,3
+2,2–2,8
+2,4
+1,9–2,3
+
+[y=399] Locker- 
+gesteine  
+und Torf
+
+[y=412] Kies/Steine, trocken
+0,4–0,5
+0,4
+1,3–1,6
+1,4
+1,8–2,2
+
+[y=427] Kies/Steine,  
+wassergesättigt
+1,6–2,0
+1,7
+2,2–2,6
+2,3
+1,9–2,3
+
+[y=453] Moräne fest gelagert
+1,7–2,4
+1,8
+1,5–2,5
+2,0
+1,9–2,5
+
+[y=468] Torf
+0,2–0,7
+0,4
+0,5–3,8
+1,6
+0,5–0,8
+
+[y=483] Schweizer Molasse-
+gestein (Mittelland)
+siehe Tabelle 12
+1,8–2,6
+2,1
+2,4–2,7
+
+[y=510] Elsässer Molasse
+1,6–2,3
+1,9
+2,1–2,4
+2,2
+2,2–2,8
+
+[y=525] Septarienton
+1,6–2,3
+1,9
+2,1–2,4
+2,2
+2,2–2,8
+
+[y=540] Tonstein
+1,1–3,5
+1,9
+2,1–2,4
+2,2
+2,4–2,6
+
+[y=549] Sedimentäre 
+Festgesteine
+
+[y=555] Sandstein
+2,3
+1,8–2,6
+2,1
+2,2–2,7
+
+[y=570] Konglomerat  
+(Nagelfluh) / Brekzie
+1,3–5,1
+2,6
+1,8–2,6
+2,1
+2,2–2,7
+
+[y=596] Mergelstein
+1,5–3,5
+2,1
+2,2–2,3
+2,2
+2,3–2,6
+
+[y=611] Kalkstein
+2,5–4,0
+2,8
+2,1–2,4
+2,2
+2,4–2,7
+
+[y=626] Sulfatgestein (Gips)
+1,3–2,8
+1,6
+2,0
+
+[y=641] Granit
+2,1–4,1
+2,8
+2,1–3,0
+2,4
+2,4–3,0
+
+[y=645] Magma-
+tische Fest-
+gesteine
+
+[y=657] Diorit
+2,0–2,9
+2,3
+2,7
+2,9–3,0
+
+[y=672] Gabbro
+1,7–2,5
+2,0
+2,6
+2,8–3,1
+
+[y=687] Tonschiefer
+1,5–2,6
+1,9
+2,2–2,5
+2,3
+2,4–2,7
+
+[y=702] Marmor
+1,3–3,1
+1,9
+2,0
+2,5–2,8
+
+[y=717] Quarzit
+5,0–6,0
+5,3
+2,1
+2,5–2,8
+
+[y=718] Meta morphe 
+Fest gesteine
+
+[y=732] Glimmerschiefer
+1,5–3,1
+2,0
+2,2–2,4
+2,3
+2,4–2,7
+
+[y=747] Gneis
+1,9–4,0
+2,6
+1,8–2,4
+2,0
+2,4–2,7
+
+[y=762] Amphibolit
+2,1–3,6
+2,6
+2,0–2,3
+2,1
+2,6–2,9
+
+
+======================================================================
+=== SEITE 58 (Index 57) ===
+======================================================================
+
+[y=69] Tabelle 11 Bodenkennwerte (Fortsetzung)
+
+[y=92] Gesteinstyp
+Wärmeleitfähigkeit  
+ 
+λ 
+W/(m·K)
+
+[y=92] Dichte 
+ 
+ρ 
+103 kg/m3
+
+[y=92] Volumetrische  
+Wärmekapazität  
+ρ · c 
+MJ/(m3·K)
+
+[y=141] Werte-  
+bereich
+empfohlener  
+Rechenwert
+Werte- 
+bereich
+empfohlener 
+Rechenwert
+
+[y=167] Bentonit-Zement- 
+Gemisch (Hinter- 
+füllung ausgehärtet)
+0,8
+3,0
+1,2
+
+[y=205] Beton
+0,9–2,0
+1,4
+1,8
+2,0–2,42
+
+[y=218] Diverse 
+Stoffe
+
+[y=220] Eis (–10 °C)
+2,32
+1,87
+0,91
+
+[y=235] Polyethylen (PE 100)
+0,4
+1,63
+0,96
+
+[y=250] Luft (0 °C–20 °C)
+0,02
+0,0012
+0,00124
+
+[y=265] Stahl
+60,0
+3,12
+7,8
+
+[y=280] Wasser (10 °C)
+0,6
+4,15
+0,99
+
+[y=315] Tabelle 12  Wärmeleitfähigkeiten im Schweizerischen Molassegestein [16]. Der Wertebereich basiert auf 
+Messdaten im Schweizer Mittelland. Ohne weitere Kenntnisse sind die für die Schweiz emp-
+fohlenen Rechenwerte zu verwenden. In begründeten Fällen kann davon abgewichen werden.
+
+[y=357] Molasse
+Gesteinstyp
+Wärmeleitfähigkeit λ
+W/(m·K)
+
+[y=384] Wertebereich
+empfohlener  
+Rechenwert
+
+[y=410] Tonstein – Siltstein
+2,3–2,4
+2,3
+
+[y=425] Siltstein
+2,3–2,4
+2,3
+
+[y=435] Obere Süsswasser-
+molasse
+
+[y=440] Feinsandstein
+2,3–2,6
+2,3
+
+[y=455] Mittelsandstein
+2,5–2,8
+2,6
+
+[y=470] Grobsandstein und Konglomerat
+2,5–2,8
+2,6
+
+[y=485] Tonstein – Siltstein
+2,6–2,9
+2,7
+
+[y=500] Siltstein
+2,6–2,9
+2,7
+
+[y=515] Obere Meeresmolasse
+
+[y=515] Feinsandstein
+2,7–3,3
+2,9
+
+[y=530] Mittelsandstein
+2,7–3,2
+2,8
+
+[y=545] Grobsandstein und Konglomerat
+2,6–3,0
+2,7
+
+[y=560] Tonstein – Siltstein
+2,2–2,7
+2,3
+
+[y=575] Siltstein
+2,3–2,8
+2,4
+
+[y=585] Untere Süsswasser-
+molasse
+
+[y=590] Feinsandstein
+2,4–2,8
+2,5
+
+[y=605] Mittelsandstein
+2,7–3,2
+2,9
+
+[y=621] Grobsandstein und Konglomerat
+2,2–3,1
+2,4
+
+[y=644] Die Wärmeleitfähigkeit der Hinterfüllung hängt stark vom Feuchtegehalt ab. Die Herstelleran gaben gelten 
+in der Regel nur für den frisch abgebundenen Zustand, bei dem der Wassergehalt im Mischverhältnis den 
+Herstellerangaben entspricht. In trockener Bohrumgebung muss mit  einer teilweisen Austrocknung der 
+ Hinterfüllung gerechnet werden. Bei trockener oder nicht  bekannter Bohrumgebung muss deshalb für die 
+Berechnung mit einem um 20 % reduzierten Wert für die Wärmeleitfähigkeit der Hinterfüllung gerechnet 
+werden.
+
+
+======================================================================
+=== SEITE 59 (Index 58) ===
+======================================================================
+
+[y=68] C.4 
+Wärmeträger
+
+[y=94] C.4.1 
+Die zulässigen Wärmeträger werden von den kantonalen Gewässerschutzstellen bestimmt. Hilfe 
+dazu bietet [7].
+
+[y=128] C.4.2 
+Zulässige Wärmeträger, inklusive Inhibitoren, gehören zur Klasse B gemäss [7] oder sind un-
+behandeltes Wasser. Von den in [4] aufgeführten Wärmeträgern erfüllen die folgenden diese 
+ Anforderung.
+
+[y=174] Tabelle 13 Zulässige Wärmeträger
+
+[y=196] Wärmeträger
+Verwendung
+Bemerkung
+
+[y=214] Propylenglykol
+oft
+Unproblematisch, hat hohe Viskosität
+
+[y=229] Ethylenglykol
+üblich
+Unproblematisch, hat mittlere Viskosität
+
+[y=244] Ethylalkohol  
+(Ethanol)
+oft
+Unproblematisch, soll inhibiert sein, hat mittlere Viskosität, 
+grosser Ausdehnungskoeffizient
+
+[y=270] Calciumchlorid
+selten
+Früher verwendet, korrosiv
+
+[y=285] Kaliumsalze
+unbekannt
+
+[y=300] Natriumchlorid
+selten
+Korrosiv
+
+[y=315] Wasser
+oft
+Trinkwasser kann unbehandelt, ohne Entsalzung  
+verwendet werden. Dem Korrosions- und Frostschutz  
+muss Beachtung geschenkt werden.
+
+[y=356] Die kantonalen Gewässerschutzstellen können diese Liste einschränken oder ergänzen.
+
+[y=373] In Wärmeträgern dürfen als Zusatzstoffe (z. B. als Korrosionsinhibitor) keine biologisch schwer 
+abbaubaren Stoffe, keine chlorierten Verbindungen und keine Schwermetallsalze verwendet 
+ werden.
+
+[y=418] C.4.3 
+Eigenschaften von Wärmeträgern
+
+[y=435] Die Eigenschaften der Wärmeträger, insbesondere die Viskosität, sind von der Temperatur ab-
+hängig.
+
+[y=470] Tabelle 14 Eigenschaften der hauptsächlich eingesetzten Wärmeträger
+
+[y=489] Frostschutz 
+ 
+ 
+°C
+
+[y=489] Träger 
+(Mischung %v/v)
+Dichte  
+bei 0 °C 
+ 
+kg/m3
+
+[y=489] Viskosität 
+bei 0 °C 
+ 
+mm2/s
+
+[y=489] Volumetrische  
+Ausdehnung ΔV/V0 
+ 
+von 0 °C bis 20 °C
+
+[y=538] Ethylenglykol 20 %
+1037
+3,49
+–10,6
+0,0045
+
+[y=553] Ethylenglykol 25 %
+1046
+4,05
+–13,6
+0,0051
+
+[y=568] Ethylenglykol 30 %
+1056
+4,72
+–16,9
+0,0058
+
+[y=583] Propylenglykol 25 %
+1032
+5,97
+–10,1
+0,0076
+
+[y=598] Propylenglykol 30 %
+1038
+7,58
+–13,5
+0,0083
+
+[y=613] Propylenglykol 35 %
+1044
+9,65
+–18,5
+0,0090
+
+[y=628] Wasser 5 °C
+1000
+1,50
+0,0
+0,0016
+
+[y=643] Ethanol 20 %
+978
+4,64
+–7,8
+0,0070
+
+[y=658] Ethanol 25 %
+976
+5,57
+–10,7
+0,0113
+
+[y=673] Ethanol 30 %
+975
+5,59
+–14,3
+0,0167
+
+
+======================================================================
+=== SEITE 60 (Index 59) ===
+======================================================================
+
+[y=69] C.4.4 
+Auslegung von Expansionsgefässen
+
+[y=86] Die volumetrische Ausdehnung von 0 °C auf 20 °C kann für die Berechnung des Expansions-
+gefässes für den Erdwärmesondenkreis verwendet werden (3.4.2.6), solange keine grösseren 
+ Kältelasten abgeführt werden (Anlagetemperaturen > 20 °C).
+
+[y=126] Beispiel:
+ 
+Anlageninhalt 
+1000 Liter
+ 
+Frostschutz 
+20 % Ethylenglykol
+ 
+Sicherheitsfaktor s 3 (nach 3.4.2.6)
+ 
+Gesucht ist die Grösse des Expansionsgefässes.
+
+[y=189] Nutzungsgrad des Expansionsgefässes bei 1 bar Vordruck und einem maximalen Druck von  
+3 bar:
+
+[y=215] pmax – pp
+pmax + 1
+ = 3 – 1
+
+[y=222] ηexp =
+
+[y=223] 3 + 1  = 0,5 
+(12)
+
+[y=251] ηexp 
+Nutzungsgrad des Expansionsgefässes
+ 
+pmax 
+maximaler Druck, in bar
+ 
+pp 
+Vordruck, in bar
+
+[y=297] Minimales Volumen des Expansionsgefässes
+
+[y=313] Vexp,min = ΔV/V0 ∙ VBHE ∙ s
+
+[y=314] ηexp
+ = 0,0045 ∙ 1000 ∙ 3
+
+[y=320] 0,5
+ = 27 Liter 
+(13)
+
+[y=348] Vexp,min minimales Volumen des Expansionsgefässes, in Liter
+ 
+ΔV/V0 
+volumetrische Ausdehnung bei Erwärmung von 0 °C auf 20 °C
+ 
+VBHE 
+Inhalt Erdwärmesonden und Erdwärmesondenkreis, in Liter
+ 
+s 
+Sicherheitsfaktor nach Ziffer 3.4.2.6 = 3
+
+
+=== Anhang D beginnt auf Seite 61 (Index 60) ===
